@@ -1,0 +1,36 @@
+﻿
+        #live
+        {
+            width:100%;
+            height:100%;
+            margin: 0 auto;
+            float:left;
+        }
+
+        
+        #score_frame
+        {
+            float:left;
+            margin:0% 15% 0% 15%;
+            width:80%;
+            height:100%;
+            border-radius: 23px 23px 23px 23px;
+        }
+         #heading
+        {
+            float: left;
+            margin: 0 0 3% 6%;
+            width: 26%;
+            height: inherit;
+            font-size: 5vh;
+            font-family: 'Freckle Face', cursive;
+            color: brown;
+        }
+
+         
+         #cover
+        {
+            margin-top: 8%;
+            width: 100%;
+            height: inherit;
+        }

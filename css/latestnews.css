@@ -1,0 +1,134 @@
+﻿
+         #cover
+        {
+            margin-top: 8%;
+            width: 100%;
+            height: inherit;
+        }
+         #heading
+        {
+            float: left;
+            margin: 3% 0 0 6%;
+            width: 26%;
+            height: inherit;
+            font-size: 5vh;
+            font-family: 'Freckle Face', cursive;
+            color: brown;
+        }
+          #dialog
+        {
+            float: left;
+            margin: 3% 0 0 0%;
+            width: 25%;
+            height: inherit;
+            font-size: 3vh;
+            font-family: 'Freckle Face', cursive;
+            color: brown;
+        }
+
+         #espn
+          {
+            float: left;
+            margin: 2% 0 0 40%;
+            width: 23%;
+            height: inherit;
+ 
+        }
+
+        #nav
+        {
+            float: left;
+            width: 97%;
+            font-weight: bold;
+            font-family: 'Consolas', 'Lucida Console', 'Courier New', 'Andale Mono', monospace;
+            list-style-type: none;
+            height: inherit;
+            margin-left: 5%;
+            margin-right: 5%;
+            height: inherit;
+            padding: 0px;
+            margin: 0px;
+            text-align: center;
+        }
+
+            #nav li a
+            {
+                border-radius: 23px 23px 23px 23px;
+                height: inherit;
+            }
+
+            #nav li a
+            {
+                display: block;
+                padding: 2% 4%;
+                background: #ccc;
+                height: inherit;
+                border-top: 1px solid #eee;
+                border-bottom: 1px solid #999;
+                text-decoration: none;
+                color: #000;
+                border-radius: 23px 23px 23px 23px;
+            }
+
+                #nav li a.active
+                {
+                    background: #ccc;
+                    color: #000;
+                    border-radius: 23px 23px 23px 23px;
+                }
+
+                #nav li a:hover
+                {
+                    color: #1693eb;
+                }
+
+
+            #nav li ul
+            {
+                padding: 0px;
+                margin: 0% 8% 0% 8%;
+                display: none;
+                list-style-type: none;
+                height: inherit;
+            }
+
+                #nav li ul li
+                {
+                    width:inherit;
+                }
+                
+
+                    #nav li ul li div
+                    {
+                        padding: 10px 10px;
+                        background: white;
+                        min-height: 90px;
+                        width: inherit;
+                        margin-left:5%;
+ 
+                    }
+
+        #news
+        {
+            float: left;
+            margin: 3% 0 0 12%;
+            width: 75%;
+            height: inherit;
+        }
+
+         #image img
+            {
+                width: 60%;
+                height: 100px;
+            }
+
+#update
+{
+    float: left;
+            margin: 3% 0 0 35%;
+            width: 75%;
+            height: inherit;
+     display:none;
+
+
+}

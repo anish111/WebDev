@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<players>
+  <player id="261" name="Rafael Nadal">
+    <name>Rafael Nadal</name>
+    <image>http://i.cdn.turner.com/si/2010/writers/jon_wertheim/05/26/wednesday.baguette/rafael-nadal-tennis-getty.jpg</image>
+    <ranking>1</ranking>
+    <about>Rafael "Rafa" Nadal Parera (born 3 June 1986) is a Spanish professional tennis player and the current world No. 1. His success on clay has earned him the nickname "King of Clay"[a] and has led many sports journalists and commentators, as well as former and current players, to regard him as the greatest clay court player in history.[b] Furthermore, his evolution into an all-court threat has established him as an all-time great.</about>
+    <shop>http://www.rafaelnadal-shop.com/en</shop>
+    <aus> 2009</aus>
+    <fr>   2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013</fr>
+    <wim>   2008, 2010</wim>
+    <us>   2010, 2013</us>
+  </player>
+
+  <player id="425" name="Roger Federer">   
+    <name>Roger Federer</name>
+    <image>http://www.tennisworldusa.org/Editor/Img/Roger-Federer-smiling-img15038_668.jpg</image>
+    <ranking>4</ranking>
+    <about>
+      Roger Federer (born 8 August 1981) is a Swiss professional tennis player who, as of March 2014, is ranked world no. 4 by the ATP. He has been ranked inside the top 10 continuously since May 2002. Numerous commentators, pundits, and former and current players of the sport regard Federer as the greatest tennis player of all time.
+    </about>
+    <shop>http://www.rogerfederershop.com/en/gtc.html</shop>
+    <aus>  2004, 2006, 2007, 2010</aus>
+    <fr>   2009</fr>
+    <wim>  2003, 2004, 2005, 2006, 2007, 2009, 2012</wim>
+    <us>   2004, 2005, 2006, 2007, 2008</us>
+  </player>
+
+  <player id="296" name="Novak Djokovic">
+    <name>Novak Djokovic</name>
+    <image>http://upload.wikimedia.org/wikipedia/commons/3/32/Novak_Djokovic_CU.jpg</image>
+    <ranking>2</ranking>
+    <about>
+      Novak Djokovic (born 22 May 1987) is a Serbian professional tennis player and former world No. 1 who is currently
+      ranked world No. 2 by the Association of Tennis Professionals (ATP). He is generally considered to be one of the greatest tennis players of all time.
+    </about>
+    <shop>
+      http://novakdjokovic.com/en/
+    </shop>
+    <aus> 2008, 2011, 2012, 2013</aus>
+    <fr>2012</fr>
+    <wim>2011</wim>
+    <us>2011</us>
+  </player>
+
+  <player id="264" name="Stanislas Wawrinka">
+    <name>Stanislas Wawrinka</name>
+    <image>http://img4.allvoices.com/thumbs/image/550/400/102931943-stanislas-wawrinka.jpg</image>
+    <ranking>3</ranking>
+    <about>
+      Stanislas Wawrinka (born 28 March 1985) is a Swiss professional tennis player. He is currently the Swiss No. 1 and World No. 3, which is also his career-high singles ranking.
+      He first attained this ranking on 27 January 2014 as a result of winning his first Grand Slam event, the 2014 Australian Open.
+    </about>
+    <shop> http://www.tennis-warehouse.com/player.html?ccode=SWARWRINKA </shop>
+    <aus> 2014</aus>
+    <fr>2013</fr>
+    <wim> 4R (2008, 2009) </wim>
+    <us>  SF (2013)</us>
+  </player>
+
+
+
+
+
+  <player id="346" name="David Ferrer">
+    <name>David Ferrer</name>
+    <image>http://www.wimbledon.com/images/players/atpf401.jpg</image>
+    <ranking>6</ranking>
+    <about>
+      David Ferrer Ern (Valencian pronunciation:( born 2 April 1982) is a Spanish professional tennis player.
+      As of 17 February 2014, he is ranked world no. 4 by the Association of Tennis Professionals.[1] Ferrer turned professional
+      in 2000 and was in the first years of his career known as a clay-court specialist, having won half of his titles on the surface.
+      However, he has had significant success on all surfaces, having reached the final of the French Open in 2013, the semifinals of
+      the Australian and US Opens twice each, and the quarterfinals of Wimbledon twice. He was part of the Spain Davis Cup team that won
+      the finals in 2008, 2009, and 2011. His biggest individual title to date was the Paris Masters in 2012, and he was runner-up at the Tennis Masters Cup in 2007.
+      He first achieved a top-10 ranking in 2006 and reached a career-high ranking of world no. 3 in July 2013.
+    </about>
+    <shop>http://www.tennisexpress.com/category.cfm/tennis/david-ferrer-tennis-pro</shop>
+    <aus> SF (2011, 2013) </aus>
+    <fr> F (2013)  </fr>
+    <wim> QF (2012, 2013) </wim>
+    <us>  SF (2007, 2012) </us>
+  </player>
+
+  <player id="235" name="Andy Murray">
+    <name>Andy Murray</name>
+    <image>http://media1.santabanta.com/full1/Lawn%20Tennis/Andy%20Murray/andy-murray-3a.jpg</image>
+    <ranking>8</ranking>
+    <about>
+      Andrew Barron "Andy" Murray(born 15 May 1987) is a Scottish professional tennis player, ranked World No. 6and British No. 1.
+      He achieved a top-10 ranking by the ATP for the first time on 16 April 2007, and reached a career peak of World No. 2 in August 2009, then again in April/May 2013. He is the current holder of the Wimbledon Championships singles title, and is the 2012 Olympic tennis men's singles champion.
+      In 2013, Murray became the 6th man in tennis history to have won over $30,000,000 in career prize money.
+    </about>
+    <shop>http://www.andymurray.com/</shop>
+    <aus> F (2010, 2011, 2013) </aus>
+    <fr>  SF (2011) </fr>
+    <wim>W (2013)  </wim>
+    <us> W (2012)  </us>
+  </player>
+
+  <player id="435" name="Jo-Wilfried Tsonga">
+    <name>Jo-Wilfried Tsonga</name>
+    <image>http://upload.wikimedia.org/wikipedia/commons/7/7e/Tsonga_Australian_Open_2009_1.jpg</image>
+    <ranking>12</ranking>
+    <about>
+      Jo-Wilfried Tsonga (born 17 April 1985) is a French professional tennis player
+      currently ranked World No. 10. He was born in Le Mans, to a French mother, Évelyne, and a Congolese father,
+      Didier Tsonga, who moved to France in the 1970s to play handball.[1] Tsonga is a member of the Tennis Club de Paris (TCP).
+      His career-high singles ranking is World No. 5, which he achieved in February 2012.
+    </about>
+    <shop>http://www.tennis-warehouse.com/player.html?ccode=JTSONGA</shop>
+    <aus> F (2008) </aus>
+    <fr> SF (2013)  </fr>
+    <wim> SF (2011, 2012) </wim>
+    <us>  QF (2011) </us>
+  </player>
+
+
+  <player id="399" name="Maria Sharapova">
+    <name>Maria Sharapova</name>
+    <image>http://static3.businessinsider.com/image/51c60126ecad04d776000008/maria-sharapova-blasts-serena-williams-criticizes-her-love-life.jpg</image>
+    <ranking>8</ranking>
+    <about>
+      Maria Yuryevna Sharapova (born April 19, 1987) is a Russian professional tennis player who as of April 7, 2014 
+      is ranked World No. 8 by the Women's Tennis Association (WTA) and is the top Russian player. A United States resident since 1994,
+      Sharapova has won twenty-nine WTA singles titles, including four Grand Slam singles titles. She has also won the year-end WTA
+      Tour Championships in 2004. The WTA has ranked Sharapova World No. 1 in singles on five separate occasions, for a total of 21 weeks.
+      She became the world no. 1 for the first time on August 22, 2005, and last held the ranking for the fifth time for four weeks from
+      June 11, 2012 to July 8, 2012.
+      She has been in eight Grand Slam finals with a record of 4–4.
+    </about>
+    <shop>http://www.mariasharapova.com/</shop>
+    <aus>2008  </aus>
+    <fr>  2012 </fr>
+    <wim> 2004 </wim>
+    <us>   2006</us>
+  </player>
+
+  <player id="200" name="Ana Ivanovic">
+    <name>Ana Ivanovic</name>
+    <image>http://static3.businessinsider.com/image/52d985156da8113550dd0e71/ana-ivanovic-the-tennis-superstar-who-never-was-is-on-fire-at-the-australian-open.jpg</image>
+    <ranking>12</ranking>
+    <about>
+      Ana Ivanovic (born November 6, 1987) is a Serbian tennis player ranked No. 1
+      in the world in 2008. As of April 7, 2014, she is no. 12 in the Women's Tennis Association 
+      (WTA) rankings for singles. She beat Dinara Safina to win the 2008 French Open and was the 
+      runner-up in singles at the 2007 French Open and the 2008 Australian Open, has qualified 
+      for the annual WTA Tour Championships twice (in 2007 and 2008) and has won the year-end WTA Tournament of
+      Champions twice, in 2010[8] and 2011.Competing as a professional since 2003, she has won 13 WTA Tour
+      singles titles, including one Grand Slam singles title.
+      As of 2013, Ivanovic has career earnings of over 11 million US$.
+    </about>
+    <shop>http://www.anaivanovic.com/</shop>
+    <aus> F (2008) </aus>
+    <fr> 2008  </fr>
+    <wim> SF (2007) </wim>
+    <us>  QF (2012) </us>
+  </player>
+
+  <player id="394" name="Serena Williams">
+    <name>Serena Williams</name>
+    <image>http://richglare.com/wp-content/uploads/2014/02/11430205.jpg</image>
+    <ranking>1</ranking>
+    <about>
+      Serena Jameka Williams (born September 26, 1981) is an American professional tennis player who is currently ranked No. 1 
+      in women's singles tennis. The Women's Tennis Association has ranked her World No. 1 in singles on six separate occasions.
+      She became the World No. 1 for the first time on July 8, 2002, and regained this ranking for the sixth time on February 18, 2013,
+      becoming the oldest world no. 1 player in WTA's history. Williams is also widely regarded to be one of the greatest female tennis 
+      players in history.She is the only female player to have won over $50 million in prize money.
+      Williams is the reigning French Open, US Open, WTA Tour Championships and Olympic ladies singles champion.
+    </about>
+    <shop>http://serenawilliams.com/</shop>
+    <aus>  </aus>
+    <fr>   </fr>
+    <wim>  </wim>
+    <us>   </us>
+  </player>
+
+  <player id="630" name="Caroline Wozniacki">
+    <name>Caroline Wozniacki</name>
+    <image>http://www.tennispanorama.com/wp-content/gallery/2011-sony-ericsson-open-players-party/caroline-wozniacki-tennis-panorama.jpg</image>
+    <ranking>15</ranking>
+    <about>
+      Caroline Wozniacki ( born 11 July 1990) is a Danish professional tennis player. 
+      She is a former World No. 1 on the WTA Tour. As of 23 January 2012, she held this position for 67 weeks.
+      She was the first Scandinavian woman to hold the top ranking position and 20th overall
+    </about>
+    <shop>http://carolinewozniacki.dk/</shop>
+    <aus> 2003, 2005, 2007, 2009, 2010</aus>
+    <fr>  2002, 2013 </fr>
+    <wim> 2002, 2003, 2009, 2010, 2012 </wim>
+    <us> 1999, 2002, 2008, 2012, 2013  </us>
+  </player>
+
+
+  <player id="208" name="Li Na">
+    <name>Li Na</name>
+    <image>http://www.topnews.in/sports/files/Li-Na_14.jpg</image>
+    <ranking>2</ranking>
+    <about>
+      Li Na (born February 26, 1982) is a Chinese professional tennis player who is currently ranked world No. 2
+      by the Women's Tennis Association (WTA). To date, Li has won nine WTA singles titles including two grand slam
+      singles titles at the 2011 French Open and 2014 Australian Open. Li's victory at the former event made her the 
+      first and only grand slam singles champion from an Asian country. Prior to this, Li had already become the first 
+      player representing Asia to appear in a grand slam singles final, a milestone she achieved at the 2011 Australian Open.
+      Li was also the runner-up at the 2013 Australian Open and 2013 WTA Tour Championships, a three time quarterfinalist at
+      Wimbledon and a semi-finalist at the 2008 Beijing Olympic Games and 2013 US Open.
+      Li achieved a career high singles ranking of world No. 2 on February 17, 2014.
+    </about>
+    <shop>http://www.tennis-warehouse.com/player.html?ccode=LNA</shop>
+    <aus> 2014 </aus>
+    <fr> 2011  </fr>
+    <wim> QF (2006, 2010, 2013) </wim>
+    <us> SF (2013)  </us>
+  </player>
+  
+ 
+</players>
