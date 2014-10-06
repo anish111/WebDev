@@ -1,0 +1,16 @@
+﻿../story/whatisnext.htm?../Project%20Documentation/documentation.txt	What is next?
+storyfiles/overview-doc.aspx						Overview
+storyfiles/acknowledgements.aspx					Acknowledgements
+storyfiles/masterpage-doc.aspx						Master Page
+storyfiles/homepage-doc.aspx							Homepage
+storyfiles/latestnews-doc.aspx						Latest News
+storyfiles/livescores-doc.aspx						Live Scores
+storyfiles/playerprofile-doc.aspx					Player Profiles
+storyfiles/videos-doc.aspx			                        Videos Page
+storyfiles/datastorage-doc.aspx					        Data Storage
+storyfiles/apiused.aspx	   				               Technologies and API's used
+storyfiles/browser.aspx							Browser Compatibility
+storyfiles/futurescope.aspx						Limitations and Future Enchancements
+storyfiles/references.aspx						References
+../story/index.htm?../Project%20Documentation/storyfiles/imageref.txt   Image References
+documentation.txt							Story File

@@ -1,0 +1,60 @@
+﻿body {
+
+    background:url(../images/prjdocbg.jpg);
+}
+
+#container
+{
+    margin:5% 10% 5% 10%;
+    width:80%;
+    background-color:white;
+    height:inherit;
+    border-radius:20px;
+    height:inherit;
+    font-size:5vh;
+}
+
+#heading
+{
+    margin:1%;
+    width:94%;
+    color:black;
+    height:inherit;
+    min-height: 50px;
+    text-align:center;
+    padding:2%;
+    text-decoration:underline;
+    font-size:8vh;
+    border-bottom:1px dotted;
+}
+
+#details
+{
+    margin:1%;
+ width:94%;    
+ padding:2%;
+ color:black;
+    height:inherit;
+    font-size:3vh;
+
+}
+
+#footer
+{
+    margin:1%;
+ width:94%;    
+ padding:2%;
+ color:black;
+  height:inherit;
+  font-size:3vh;
+  border-top:1px dotted;
+  text-align:center;
+}
+
+#image
+{
+     width:60%;
+     max-height:100%;
+     max-width:100%;
+     margin:2% 0% 0% 20%;
+}

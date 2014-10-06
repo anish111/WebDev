@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html>
+
+<script runat="server">
+
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page</title>
+    <link rel="stylesheet" type="text/css" href="../css/master.css" />
+    <link rel="icon" type="image/jpg" href="http://vulpeculox.net/bits/img/document.png" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+        <div id="heading">
+         <asp:ContentPlaceHolder id="Heading" runat="server">
+        
+        </asp:ContentPlaceHolder>
+         </div>
+
+        <div id="details">
+        <asp:ContentPlaceHolder id="Details" runat="server">
+        
+        </asp:ContentPlaceHolder>
+            </div>
+        <div id="footer">
+             Copyright © 2014 Anish Deshmukh. All rights Reserved.
+            </div>
+
+    </div>
+    </form>
+</body>
+</html>
